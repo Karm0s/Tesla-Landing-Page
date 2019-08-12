@@ -1,0 +1,9 @@
+1/ SETUP:
+
+*   Create the virtual env.
+*   Install Django
+*   Setup Django project
+*   Setup git and github.
+*   Create App.
+*   Write Index View.
+*   Front end shit.
